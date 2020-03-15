@@ -1,2 +1,2 @@
 # Module7Code
-Module 7 code - modified CharStack, balloon class, threads
+Module 7 code - balloon class, threads
